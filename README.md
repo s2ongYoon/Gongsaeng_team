@@ -3,7 +3,9 @@
 > - 건축과 인테리어 전반의 정보를 공유하고 전문가의 노하우를 제공
 > - 사업자(반장) 페이지를 제공하여 클래스 운영의 편리성을 향상
 > - 최신 트렌드와 팁 공유 등을 위한 커뮤니티 기능을 제공
+
 > - 팀에서 부팀장을 맡아 커뮤니케이션을 주도하고 데이터베이스 관리와 배포
+> - AWS EC2를 사용하여 프로젝트 배포
 
  <br>
  
@@ -11,7 +13,7 @@
 -------------
 > - Java 11, JSP, Spring Framework, MyBatis, MySQL, Tomcat, Gemini
 > - HTML, CSS, JavaScript, JQuery, AJAX, JSON, Bootstrap
-> - GIT, GitHub
+> - GIT, GitHub, AWS EC2
 
  <br>
 
@@ -23,10 +25,10 @@
 
  <br>
 
-✅ [Gongsaeng URL](http://c5d2308t2.itwillbs.com/zzimkong/)
+✅ [Gongsaeng URL](http://13.124.79.139:8080/gongsaeng/)
 -------------
-> **User_ID** ceo12345 /  **User_PW** qwer1234!   
-> **Admin_ID** admin1234 / **Admin_PW** qwer1234!
+> **User_ID** qwert1234 /  **User_PW** qwert1234!!   
+> **Admin_ID** qwert123 / **Admin_PW** qwert123
 
 <br>
 
