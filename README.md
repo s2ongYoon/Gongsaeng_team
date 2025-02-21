@@ -25,7 +25,7 @@
 
  <br>
 
-✅ [Gongsaeng URL](http://43.201.111.185:8080/gongsaeng/)
+✅ [Gongsaeng URL](http://54.180.124.142:8080/gongsaeng/)
 -------------
 > **User_ID** qwert1234 /  **User_PW** qwert1234!!   
 > **Admin_ID** qwert123 / **Admin_PW** qwert123
